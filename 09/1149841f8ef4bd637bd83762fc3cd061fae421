@@ -1,0 +1,24 @@
+" helm-guestbook/templates/service.yaml"
+  h_cc46416694cb90 1-19
+" helm-guestbook/templates/deployment.yaml"
+  h_cc46416694cb90 1-52
+" helm-guestbook/Chart.yaml"
+  h_cc46416694cb90 1-23
+guestbook-application.yaml
+  h_cc46416694cb90 4,11-14,17
+" helm-guestbook/values.yaml"
+  h_cc46416694cb90 1-49
+" helm-guestbook/templates/_helpers.tpl"
+  h_cc46416694cb90 1-32
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "091149841f8ef4bd637bd83762fc3cd061fae421",
+  "prompts": {},
+  "humans": {
+    "h_cc46416694cb90": {
+      "author": "Rostyslav Kholodnytskyi <rostyslav.kholodnytskyi@vonage.com>"
+    }
+  }
+}
