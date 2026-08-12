@@ -9,9 +9,10 @@ spec:
     repoURL: https://github.com/rstkhldntsk/argocd-example-apps.git
     targetRevision: HEAD
     path: guestbook
-    helm:
-      valueFiles:
-        - values.yaml
+#    path: helm-guestbook
+#    helm:
+#      valueFiles:
+#        - values.yaml
   destination:
     server: https://kubernetes.default.svc
     namespace: guestbook
