@@ -2,4 +2,4 @@
 
 Place Kubernetes manifests that should be deployed alongside the Dashboard Helm
 chart in this directory. Argo CD renders this directory as the second source of
-the `k8s-dashboard` Application.
+the `headlamp` Application.

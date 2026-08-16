@@ -1,24 +1,24 @@
 apiVersion: argoproj.io/v1alpha1
 kind: Application
 metadata:
-  name: k8s-dashboard
+  name: headlamp
   namespace: argocd
 spec:
   project: default
   sources:
-    - repoURL: https://kubernetes.github.io/dashboard/
+    - repoURL: https://kubernetes-sigs.github.io/headlamp/
       chart: kubernetes-dashboard
-      targetRevision: 7.13.0
+      targetRevision: 0.42.0
       helm:
         valueFiles:
-          - $values/k8s-dashboard/values.yaml
+          - $values/headlamp/values.yaml
     - repoURL: https://github.com/rstkhldntsk/argocd-example-apps.git
       targetRevision: HEAD
       ref: values
-      path: k8s-dashboard/manifests
+      path: headlamp/manifests
   destination:
     server: https://kubernetes.default.svc
-    namespace: k8s-dashboard
+    namespace: headlamp
   syncPolicy:
     automated:
       prune: true

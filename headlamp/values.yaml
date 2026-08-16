@@ -1,0 +1,3 @@
+config:
+  useInCluster: true
+containerPort: 4466
