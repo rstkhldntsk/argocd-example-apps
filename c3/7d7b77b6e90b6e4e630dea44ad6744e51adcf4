@@ -1,0 +1,16 @@
+headlamp/manifests/serviceaccount.yaml
+  h_cc46416694cb90 1-6
+headlamp/manifests/clusterrolebinding.yaml
+  h_cc46416694cb90 1-12
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "c37d7b77b6e90b6e4e630dea44ad6744e51adcf4",
+  "prompts": {},
+  "humans": {
+    "h_cc46416694cb90": {
+      "author": "Rostyslav Kholodnytskyi <rostyslav.kholodnytskyi@vonage.com>"
+    }
+  }
+}
