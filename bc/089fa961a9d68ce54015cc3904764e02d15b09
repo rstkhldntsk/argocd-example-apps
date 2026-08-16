@@ -1,0 +1,14 @@
+bootstrap/k8s-dashboard-application.yaml
+  h_cc46416694cb90 4,9-11,14,18,21
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "bc089fa961a9d68ce54015cc3904764e02d15b09",
+  "prompts": {},
+  "humans": {
+    "h_cc46416694cb90": {
+      "author": "Rostyslav Kholodnytskyi <rostyslav.kholodnytskyi@vonage.com>"
+    }
+  }
+}
