@@ -1,0 +1,12 @@
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "00365f3d1bce77aa2b2bbfeaf2f28475bf6a058e",
+  "prompts": {},
+  "humans": {
+    "h_cc46416694cb90": {
+      "author": "Rostyslav Kholodnytskyi <rostyslav.kholodnytskyi@vonage.com>"
+    }
+  }
+}
