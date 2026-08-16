@@ -12,19 +12,9 @@ spec:
     helm:
       valueFiles:
         - values.yaml
-      valuesObject:
-        replicaCount: 2
-        service:
-          type: NodePort
-      parameters:
-        - name: 'replicaCount'
-          value: '3'
   destination:
     server: https://kubernetes.default.svc
     namespace: helm-guestbook
   syncPolicy:
     syncOptions:
       - CreateNamespace=true
-    automated:
-      prune: true
-      selfHeal: true
