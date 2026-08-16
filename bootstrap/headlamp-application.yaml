@@ -7,7 +7,7 @@ spec:
   project: default
   sources:
     - repoURL: https://kubernetes-sigs.github.io/headlamp/
-      chart: kubernetes-dashboard
+      chart: headlamp
       targetRevision: 0.42.0
       helm:
         valueFiles:
