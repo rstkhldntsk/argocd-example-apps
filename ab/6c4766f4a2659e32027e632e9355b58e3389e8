@@ -1,0 +1,16 @@
+bootstrap/guestbook-application.yaml
+  h_cc46416694cb90 1-23
+bootstrap.yaml
+  h_cc46416694cb90 1-20
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "ab6c4766f4a2659e32027e632e9355b58e3389e8",
+  "prompts": {},
+  "humans": {
+    "h_cc46416694cb90": {
+      "author": "Rostyslav Kholodnytskyi <rostyslav.kholodnytskyi@vonage.com>"
+    }
+  }
+}
