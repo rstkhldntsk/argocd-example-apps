@@ -1,0 +1,27 @@
+bootstrap/k8s-dashboard-application.yaml
+  h_cc46416694cb90 1-17
+  s_4927219cc80ac7::t_d2bd419705a378 18-27
+k8s-dashboard/manifests/README.md
+  s_4927219cc80ac7::t_fb76c86ed24238 1-5
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "bc35660c6db5d4f84c52e698e79785c3cda6d8f4",
+  "prompts": {},
+  "humans": {
+    "h_cc46416694cb90": {
+      "author": "Rostyslav Kholodnytskyi <rostyslav.kholodnytskyi@vonage.com>"
+    }
+  },
+  "sessions": {
+    "s_4927219cc80ac7": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a00ab1-a186-7ee1-a592-50ad367f0d04",
+        "model": "unknown"
+      },
+      "human_author": "Rostyslav Kholodnytskyi <rostyslav.kholodnytskyi@vonage.com>"
+    }
+  }
+}
