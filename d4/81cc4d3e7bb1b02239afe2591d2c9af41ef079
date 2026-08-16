@@ -1,0 +1,14 @@
+guestbook/guestbook-ui-deployment.yaml
+  h_cc46416694cb90 6
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "d481cc4d3e7bb1b02239afe2591d2c9af41ef079",
+  "prompts": {},
+  "humans": {
+    "h_cc46416694cb90": {
+      "author": "Rostyslav Kholodnytskyi <rostyslav.kholodnytskyi@vonage.com>"
+    }
+  }
+}
