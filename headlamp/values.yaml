@@ -1,3 +1,5 @@
 config:
   useInCluster: true
 containerPort: 4466
+clusterRoleBinding:
+  create: false
