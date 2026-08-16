@@ -1,0 +1,14 @@
+bootstrap/headlamp-application.yaml
+  h_cc46416694cb90 14
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "492281aa963b04ef496c801cd9463ee35f1c5cae",
+  "prompts": {},
+  "humans": {
+    "h_cc46416694cb90": {
+      "author": "Rostyslav Kholodnytskyi <rostyslav.kholodnytskyi@vonage.com>"
+    }
+  }
+}
