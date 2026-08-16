@@ -1,0 +1,16 @@
+helm-guestbook/values.yaml
+  h_cc46416694cb90 1
+k8s-dashboard-app.yaml
+  h_cc46416694cb90 16,18-19
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "551318b6a24131160022ae6f7c1b541928b92926",
+  "prompts": {},
+  "humans": {
+    "h_cc46416694cb90": {
+      "author": "Rostyslav Kholodnytskyi <rostyslav.kholodnytskyi@vonage.com>"
+    }
+  }
+}
