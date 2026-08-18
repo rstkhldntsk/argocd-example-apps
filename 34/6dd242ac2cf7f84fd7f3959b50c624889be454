@@ -1,0 +1,14 @@
+helm-guestbook/templates/configmap.yaml
+  h_cc46416694cb90 4,6
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "346dd242ac2cf7f84fd7f3959b50c624889be454",
+  "prompts": {},
+  "humans": {
+    "h_cc46416694cb90": {
+      "author": "Rostyslav Kholodnytskyi <rostyslav.kholodnytskyi@vonage.com>"
+    }
+  }
+}
